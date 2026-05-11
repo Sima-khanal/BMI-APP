@@ -53,4 +53,3 @@ export function validateInputs({ weight, height, age }) {
   return errors;
 }
 
-git remote set-url origin https://github.com/Sima-khanal/BMIApp.git
